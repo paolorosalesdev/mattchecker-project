@@ -58,8 +58,8 @@ MattChecker is a centralized web-based examination system designed to automate q
 4. **Database Setup**
 - Open XAMPP and start **Apache** and **MySQL**
 - Go to phpMyAdmin: http://localhost/phpmyadmin
-- Create a database named: mattchecker_db
-- Import the provided `mattchecker_db.sql` file using phpMyAdmin
+- Create a database named: checker_db
+- Import the provided `checker_db.sql` file using phpMyAdmin
 
 5. **Configuration**
 - Open the project folder
@@ -68,7 +68,7 @@ MattChecker is a centralized web-based examination system designed to automate q
   - Host: `localhost`
   - Username: `root`
   - Password: *(leave blank if using default XAMPP)*
-  - Database: `mattchecker_db`
+  - Database: `checker_db`
 
 6. **Launch**
 - Open your browser
