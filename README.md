@@ -45,7 +45,7 @@ MattChecker is a centralized web-based examination system designed to automate q
 
 1. **Download the repository**
    - Go to the GitHub repository
-   - Download the ZIP file (`mattchecker-project.zip`)
+   - Download the ZIP file (`MattChecker.zip`)
 
 2. **Extract the project**
    - Right-click the downloaded ZIP file
@@ -72,7 +72,7 @@ MattChecker is a centralized web-based examination system designed to automate q
 
 6. **Launch**
 - Open your browser
-- Visit: http://localhost/mattchecker-project
+- Visit: http://localhost/MattChecker
 
 ---
 
